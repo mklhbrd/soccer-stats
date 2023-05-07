@@ -1,7 +1,7 @@
 {
     "root": true,
     "extends": [
-      "next/core-web-vitals",
+      "./node_modules/eslint-config-next/core-web-vitals.js",
       "plugin:prettier/recommended"
     ]
   }
