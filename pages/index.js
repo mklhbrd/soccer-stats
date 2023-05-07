@@ -2,8 +2,7 @@ import Head from 'next/head';
 import styles from '../styles/Home.module.css';
 import { Button, Grid } from '@mui/material';
 import { useAttPassComplete, useAttPassIncomplete, useBigChance, useCross, useDefPassComplete, useDefPassIncomplete, useShotOffTarget, useShotOnTarget, useSoccerStats, useTackle } from '../hooks/statshooks';
-import Timer from '../Components/timer';
-import { useState } from 'react';
+
 
 
 
